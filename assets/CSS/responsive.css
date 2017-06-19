@@ -1,0 +1,272 @@
+@media only screen and (max-width: 767px) {
+
+#desktop {
+  display: none;
+}
+
+#mobile_nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  display: none;
+}
+
+#learn {
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.learn-img-header {
+  width: 100%;
+  height: 180px;
+  overflow: hidden;
+}
+
+.right-learn {
+  display: flex;
+  flex-flow: wrap column;
+  justify-content: center;
+  margin: 32px 16px;
+  width: 100%;
+}
+
+#practice {
+  padding-bottom: 16px;
+}
+
+.practice-main {
+  display: none;
+}
+
+.campus-info {
+  width: 100%;
+}
+
+.campus-info1 {
+  flex-flow: wrap column;
+  border: 0;
+  height: auto;
+}
+
+.img-campus-info {
+  min-width: 100%;
+  margin: 0;
+  padding: 16px;
+}
+
+.img-campus-info1 {
+  display: none;
+}
+
+.img-campus-info2-mobile {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+}
+
+.campus-infotext {
+  margin-left: 32px;
+  margin-bottom: 16px;
+}
+
+#start_learning {
+  padding-bottom: 24px;
+}
+
+#start_learning h1 {
+  font-family: "Rufina", serif;
+  font-size: 2rem;
+  padding: 32px 0 8px 0;
+  text-align: center;
+}
+
+#start_learning h2 {
+  line-height: 0.5rem;
+}
+
+.courses {
+  justify-content: space-around;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.course {
+  width: 100%;
+  margin: 8px 16px;
+  padding: 0;
+}
+
+.course-txt h3, p {
+  display: none;
+}
+
+.course-img {
+  display: none;
+}
+
+.video {
+  height: auto;
+  width: 100%;
+  padding: 0;
+}
+
+#thesis {
+  padding-bottom: 24px;
+}
+.thesis-txt {
+  display: none;
+}
+
+.thesis-info {
+  display: none;
+}
+
+footer {
+  justify-content: flex-start;
+}
+
+.links {
+  display: none;
+}
+}
+
+@media only screen and (max-width: 480px) {
+
+#desktop {
+  display: none;
+}
+
+#mobile_nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  display: none;
+}
+
+#learn {
+  padding: 0;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.learn-img-header {
+  width: 100%;
+  height: 180px;
+  overflow: hidden;
+}
+
+.right-learn {
+  display: flex;
+  flex-flow: wrap column;
+  justify-content: center;
+  margin: 32px 16px;
+  width: 100%;
+}
+
+#practice {
+  padding-bottom: 16px;
+}
+
+.practice-main {
+  display: none;
+}
+
+.campus-info {
+  width: 100%;
+}
+
+.campus-info1 {
+  flex-flow: wrap column;
+  border: 0;
+  height: auto;
+}
+
+.img-campus-info {
+  min-width: 100%;
+  margin: 0;
+  padding: 16px;
+}
+
+.img-campus-info1 {
+  display: none;
+}
+
+.img-campus-info2-mobile {
+  display: inline-block;
+  width: 88%;
+  height: auto;
+}
+
+.campus-infotext {
+  margin-left: 32px;
+  margin-bottom: 16px;
+}
+
+#start_learning {
+  padding-bottom: 24px;
+}
+
+#start_learning h1 {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2rem;
+  padding: 32px 0 8px 0;
+  text-align: center;
+}
+
+#start_learning h2 {
+  line-height: 1.5rem;
+}
+
+.courses {
+  justify-content: space-around;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.course {
+  width: 100%;
+  margin: 8px 16px;
+  padding: 0;
+}
+
+.course-txt h3, p {
+  display: none;
+}
+
+.course-img {
+  display: none;
+}
+
+.video {
+  height: auto;
+  width: 100%;
+  padding: 0;
+}
+
+#thesis {
+  padding-bottom: 24px;
+}
+.thesis-txt {
+  display: none;
+}
+
+.thesis-info {
+  display: none;
+}
+
+footer {
+  justify-content: flex-start;
+}
+
+.links {
+  display: none;
+}
+}
